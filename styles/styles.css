@@ -1,0 +1,24 @@
+.common div {
+    display: inline-block;
+    }
+.cat, .dog, .parrot {
+        height: 600;
+        width: 500;
+        border: 2px solid #858f99;
+        background-color: #dce1e5;
+        margin-left: 100px;
+        
+    
+    }
+span {
+    color: red;
+    font-style: oblique;
+    
+}
+h2 {
+    color: blue;
+    
+}
+img {
+    align="center"
+}
